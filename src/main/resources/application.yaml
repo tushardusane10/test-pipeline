@@ -1,0 +1,6 @@
+server:
+  port: 8190
+
+spring:
+  application:
+    name: java-pipeline
